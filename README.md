@@ -1,6 +1,6 @@
-# ![Awakener's Orb](https://web.poecdn.com/image/Art/2DItems/Currency/TransferOrb.png) Geforce NOW **bridge** for Awakened PoE Trade
+# gulpse
 
-![kHBPqWXHkQ31](https://github.com/KloppstockBw/GFNPoEPriceCheck/assets/147773628/7cce82ba-5422-4154-abbd-789d80afc0a1)
+![kHBPqWXHkQ31](https://github.com/KloppstockBw/gulpse/assets/147773628/7cce82ba-5422-4154-abbd-789d80afc0a1)
 ### reddit
 https://www.reddit.com/r/pathofexile/comments/17cktr0/awakened_poe_trade_on_geforce_now/?utm_source=share&utm_medium=mweb
 
@@ -16,8 +16,8 @@ The standard hotkeys are:
 
 ### Requirements
 
--  [GFNPoEPriceCheck.au3](Https://github.com/KloppstockBw/GFNPoEPriceCheck/blob/main/GFNPoEPriceCheck.au3)
-  (Alternatively the [GFNPoEPriceCheck.exe](https://github.com/KloppstockBw/GFNPoEPriceCheck/raw/main/GFNPoEPriceCheck.exe) , but you get a smartscreen warning the first run because I'm not going to buy a certificate to sign the exe as trustworthy)
+-  [gulpse.au3](Https://github.com/KloppstockBw/gulpse/blob/main/gulpse.au3)
+  (Alternatively the [gulpse.exe](https://github.com/KloppstockBw/gulpse/raw/main/gulpse.exe) , but you get a smartscreen warning the first run because I'm not going to buy a certificate to sign the exe as trustworthy)
   
 - Autoit (Only if you use the .au3 Version) https://www.autoitscript.com/site/autoit/downloads/
   
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=K87GRUXJLl0
 
 1. Create a https://docs.google.com/document/create document and activate share to everyone.
 2. Run awakened PoE trade
-3. Run GFNPoEPriceCheck
+3. Run gulpse
 4. Decide in script if you want to autorun awakened on script start (recommended)
 5. Show the script where the awakened PoE trade input field is
 6. tell the script your docs.google URL
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=K87GRUXJLl0
 
 -> If you have issues you can either delete config or change hotkey by clicking on the icon in tray
 
--> ![Screenshot 2023-11-10 234637](https://github.com/KloppstockBw/GFNPoEPriceCheck/assets/147773628/768c64b9-7170-4d4e-a0f7-3f18c1586b91)
+-> ![Screenshot 2023-11-10 234637](https://github.com/KloppstockBw/gulpse/assets/147773628/768c64b9-7170-4d4e-a0f7-3f18c1586b91)
 
 ### to do 
 - troubleshooting
